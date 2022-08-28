@@ -7,4 +7,3 @@ I am a software engineer with a keen interest in data compression and artificial
 - 📫 How to reach me: michaelobi54@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Technical Skills: C++ is my jam, although I use other languages like, C, Python, Rust.
--->
