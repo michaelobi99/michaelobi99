@@ -6,3 +6,4 @@ I am a software engineer interested in data compression, artificial intelligence
 - 📫 How to reach me: michaelobi54@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Technical Skills: C++, C, Python, Rust.
+I am open to 2023 software engineering internship positions.
