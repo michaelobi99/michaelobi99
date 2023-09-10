@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Michael.
-I am a software engineer interested in data compression, machine learning, and the intersection of both fields.
+I am a software engineer interested in information theory, data compression and machine learning.
 
 - 🔭 I’m currently working on a file archiver/compressor.
 - 📫 How to reach me: michaelobi54@gmail.com
